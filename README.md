@@ -1,0 +1,3 @@
+# March Madness 2022
+
+This is a simple notebook for my first attempt at classifying wins/losses in March Madness. The model combined well-known rating systems from Ken Pomeroy, Moore, and most interestingly, the graph-based Colley ratings into a vector of seeds for each team. The model uses a Support Vector Machine to classify the difference vector between the teams, predicting whether input team 1 wins or loses.
